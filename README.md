@@ -1,1 +1,1 @@
-## Sample code for GCP Challenge
+# Sample code for GCP Challenge
